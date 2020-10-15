@@ -8,3 +8,4 @@ plugins:
 metadata:
   annotations:
     backstage.io/techdocs-ref: dir:./
+
